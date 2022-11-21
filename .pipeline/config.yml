@@ -1,0 +1,7 @@
+steps:
+  integrationArtifactTransport:
+    casApiServiceKeyCredentialsId: caspocServiceKeyCred
+    integrationPackageId: TestTransport
+    resourceID: d9c3fe08ceeb47a2991e53049f2ed766
+    name: TestTransport
+    version: 1.0
